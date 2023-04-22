@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+    color: white;
+}
+#heading{
+    display: flex;
+    justify-content: center !important;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+}
+.location{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.all {
+    display: none;
+}
+.weather {
+    border: 2px solid black;
+}
